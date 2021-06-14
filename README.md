@@ -1,16 +1,11 @@
 # MAHALogin
 this is for git hooks  of mahalogin
 
-web hooks call jenkins
 
-1st change
-2nd change
+this is my 1st commit
 
 
 
 
 
 
-
-
-# mahalogin
